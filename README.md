@@ -7,5 +7,6 @@ Work in progress and currently not working at all. Just the basic design and som
 Tested only on Windows.
 </br></br>
 GUI Preview:
+</br>
 ![Preview](TTS-preview.PNG)
 
