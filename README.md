@@ -2,11 +2,11 @@
 
 A simple Text to Speech converter using googles gTTS module in Python. Supports several Languages.
 
-Work in progress. Basic Design and functionality already working.
+Work in progress.
 
 Tested only on Windows.
 </br></br>
-GUI Preview:
+Preview:
 </br>
-![Preview](TTS-preview.PNG)
+![Preview](tts-preview3.PNG)
 
