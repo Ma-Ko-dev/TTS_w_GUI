@@ -3,3 +3,4 @@
 /config/config.ini
 /build/
 /Text-to-Speech-Converter.spec
+*.ui
